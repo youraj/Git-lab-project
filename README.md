@@ -60,10 +60,10 @@ If you would like to contribute a translation, please submit a PR. Note though, 
 While there are various versions of DVWA around, the only supported version is the latest source from the official GitHub repository. You can either clone it from the repo:
 
 ```sh
-git clone https://github.com/digininja/DVWA.git
+https://github.com/youraj/Git-lab-project.git
 ```
 
-Or [download a ZIP of the files](https://github.com/digininja/DVWA/archive/master.zip).
+Or [download a ZIP of the files] https://github.com/youraj/Git-lab-project.git
 
 - - -
 
@@ -718,6 +718,8 @@ The challenges are exactly the same as for MariaDB, they just run against SQLite
 👨‍💻 Contributors
 -----
 
+
+
 Thanks for all your contributions and keeping this project updated. :heart:
 
 If you have an idea, some kind of improvement or just simply want to collaborate, you are welcome to contribute and participate in the Project, feel free to send your PR.
@@ -727,7 +729,7 @@ If you have an idea, some kind of improvement or just simply want to collaborate
   <img src="https://contrib.rocks/image?repo=digininja/DVWA&max=500">
 </a>
 </p>
-
+Thanks for DJninja for valuable support 
 - - -
 
 ## Reporting Vulnerabilities
@@ -742,6 +744,6 @@ The app has vulnerabilities, it is deliberate. Most are the well documented ones
 
 ## Links
 
-Project Home: <https://github.com/digininja/DVWA>
+Project Home:https://github.com/youraj/Git-lab-project.git
 
 _Created by the DVWA team_
